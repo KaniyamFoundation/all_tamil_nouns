@@ -13,10 +13,15 @@ Read our explorations of building Tamil spellchecker here - https://goinggnu.wor
 # counts
 
 nouns - 97875 
+
 peryan.in_names/boy - 20391
+
 peyar.in_names/girl - 24030
+
 random_collections - 1115
+
 tamilsurangam.in - 1249
+
 wiktionary - 85256
 
 
