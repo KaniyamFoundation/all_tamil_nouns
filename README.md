@@ -29,5 +29,11 @@ total - 2,29,916 (all_nouns.txt)
 
 only unique_nouns - 1,92,122 (unique_all_nouns.txt)
 
+
+Read more about this repo here - https://goinggnu.wordpress.com/2020/05/24/building-tamil-spellchecker-day-3-collecting-all-tamil-nouns/
+
 # TODO
-Clean up any errors
+
+* Collect more nouns and add in this repo.
+* Check for any errors and fix them in these files.
+* Collect all verbs and other forms in tamil too.
