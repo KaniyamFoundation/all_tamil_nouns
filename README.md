@@ -30,6 +30,19 @@ total - 2,29,916 (all_nouns.txt)
 only unique_nouns - 1,92,122 (unique_all_nouns.txt)
 
 
+===
+
+Further removed the unique sub names and made this file unique_sorted_noun_master.txt.
+
+Will be using this file as a master list for nouns.
+
+wc -l unique_sorted_noun_master.txt 
+
+1,53,548 unique_sorted_noun_master.txt
+
+===
+
+
 Read more about this repo here - https://goinggnu.wordpress.com/2020/05/24/building-tamil-spellchecker-day-3-collecting-all-tamil-nouns/
 
 # TODO
